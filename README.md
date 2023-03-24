@@ -10,7 +10,7 @@ Steps :
 Guide pour Github :
 
 Cloner (Première fois seulement) :
-git clone https://github.com/zeio99/APST2_Projet.git
+git clone https://github.com/chloe-caville/APST2-Projet-2.git
 / cd APST2-Projet-2
 
 Mises à jour (À chaque utilisation) :
