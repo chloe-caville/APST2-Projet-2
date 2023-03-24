@@ -6,3 +6,19 @@ Steps :
  A data set from the Nantes Open Data platform (or other ones)
 2. Perform a classification using Gaussian mixtures
 3. Comment
+
+Guide pour Github :
+
+Cloner
+$ git clone # <Première fois seulement>
+$ git clone https://github.com/zeio99/APST2_Projet.git
+$ cd APST2_projet
+
+Mises à jour # <À chaque utilisation>
+$ git pull
+
+Soumettre
+$ git add .
+$ git commit -m "AAAA" # AAAA comme note, par exemple la date...
+$ git push -u origin master # <Zone de travail>
+
