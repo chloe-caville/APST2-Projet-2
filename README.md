@@ -9,15 +9,15 @@ Steps :
 
 Guide pour Github :
 
-Cloner (Première fois seulement)
+Cloner (Première fois seulement) :
 git clone https://github.com/zeio99/APST2_Projet.git
-cd APST2-Projet-2
+/ cd APST2-Projet-2
 
-Mises à jour (À chaque utilisation)
+Mises à jour (À chaque utilisation) :
 git pull
 
-Soumettre
+Soumettre :
 git add .
-git commit -m "AAAA" # AAAA comme note, par exemple la date...
-git push 
+/ git commit -m "AAAA" # AAAA comme note, par exemple la date...
+/ git push 
 
